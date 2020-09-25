@@ -1,5 +1,5 @@
 # Tourist-Knights
-Final project for the Algorithms and Data Structures course at Instituto Superior Técnico, second year first semester where I got 14/20 in the automatic submissions (done on Mooshak) and 13 after submiting the report and the professor's review.
+Final project for the **Algorithms and Data Structures** course at *Instituto Superior Técnico*, second year first semester where I got **14/20** in the automatic submissions (done on Mooshak) and **13** after submiting the report and the professor's review.
 
 The project had three different challenges:
 
